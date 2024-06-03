@@ -1,7 +1,7 @@
 ## Olá, meu nome é Victor
   
   - Estudande do curso Técnico em Desenvolvimento de Sistemas pelo SENAI
-  - Em foco:
+  - Estudando:
 
   <div class="inline">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
